@@ -1,6 +1,12 @@
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/100-gif-24253273" width="350px">
+  <p align="center">
+  <img
+    src="https://c.tenor.com/Vi9xz8Ym8fcAAAAC/100-gif.gif"
+    alt="100 GIF"
+    width="350"
+  />
+</p>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Pedro Augusto</h1>
