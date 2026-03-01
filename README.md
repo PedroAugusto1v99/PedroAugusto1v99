@@ -22,7 +22,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Desenvolvendo projetos práticos em **linguagem C**  
 🚀 Evoluindo em lógica de programação e estruturas de dados  
-📚 Explorando o mundo do desenvolvimento Front-end  
+📚 Explorando o mundo do desenvolvimento Front-end e Back-end 
 🎯 Objetivo: me tornar um desenvolvedor cada vez mais completo  
 
 ---
