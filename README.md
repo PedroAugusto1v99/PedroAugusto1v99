@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">👋 Olá, eu sou Pedro Augusto</h1>
-<h3 align="center">💻 Desenvolvedor em formação | Foco em C | ADS</h3>
+<h3 align="center">💻 Desenvolvedor em formação | Front-end e Back-end | ADS</h3>
 
 <p align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW92cHEwZmplbXh1MmIxa2g5cWg1am10ZXh0dHZkMzBxb21jcXFmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hf94BspUpu0JW/giphy.gif"
