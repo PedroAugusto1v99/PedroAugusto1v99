@@ -1,17 +1,19 @@
 
 <p align="center">
   <p align="center">
-  <img
-    src="https://c.tenor.com/Vi9xz8Ym8fcAAAAC/100-gif.gif"
-    alt="100 GIF"
-    width="350"
-  />
+ 
 </p>
 </p>
 
 <h1 align="center">👋 Olá, eu sou Pedro Augusto</h1>
 <h3 align="center">💻 Desenvolvedor em formação | Foco em C | ADS</h3>
 
+<p align="center">
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW92cHEwZmplbXh1MmIxa2g5cWg1am10ZXh0dHZkMzBxb21jcXFmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hf94BspUpu0JW/giphy.gif"
+    alt="100 GIF"
+    width="350"
+  />
+</p>
  
 ---
 
@@ -49,14 +51,6 @@
 📌 Confira todos os repositórios:  
  https://github.com/PedroAugusto1v99
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroAugusto1v99&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto1v99&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
