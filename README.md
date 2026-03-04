@@ -67,7 +67,7 @@
 -  Estruturas de Dados
 -  Boas práticas de programação
 -  Algoritmos
--  Desenvolvimento Web (em breve 👀)
+-  Front-end e Back-end (em breve 👀)
 
 ---
 
