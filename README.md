@@ -44,7 +44,7 @@
 
 🔥 Alguns projetos desenvolvidos por mim:
 
--  **Super Trunfo em C** – Jogo de cartas no terminal  
+-  **Tabela de Clientes em SQL** – Banco de Dados básicas 
 -  **Jokenpô em C** – Pedra, Papel e Tesoura no console  
 -  **Sistema de Cadastro** – Gerenciamento acadêmico simples  
 -  **Calculadora Simples** – Operações matemáticas básicas  
