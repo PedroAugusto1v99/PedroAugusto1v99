@@ -82,6 +82,6 @@ Se quiser trocar ideia sobre programação ou projetos:
 ---
 
 <p align="center">
-✨ Obrigado por visitar meu perfil! ✨  
-🚀 Sempre evoluindo um commit por vez.
+ Obrigado por visitar meu perfil! 
+ 👾 Sempre buscando evolução 👾
 </p>
