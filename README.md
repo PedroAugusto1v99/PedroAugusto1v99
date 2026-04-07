@@ -9,7 +9,7 @@
 <h3 align="center">💻 Desenvolvedor em formação | Front-end e Back-end | ADS</h3>
 
 <p align="center">
- <img src="https://i.gifer.com/9Qlx.gif"
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjkzYzBsMnR3NmRrYXRldmx4Y3V5NHNsaWY1eTQ4MXRsczUycGNldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W6cSHxAxM6KrA6y9JE/giphy.gif"
     alt="100 GIF"
     width="350"
   />
